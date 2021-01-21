@@ -1,0 +1,52 @@
+[
+    {
+        "antipasti": {
+            "nome": [
+                "Affettati",
+                "Tartare",
+                "Giardiniera"
+            ],
+            "prezzo": [
+                12,
+                15,
+                8
+            ]
+        },
+        "primi": {
+            "nome": [
+                "Gnocchi al sugo",
+                "Carbonara",
+                "Vellutata"
+            ],
+            "prezzo": [
+                14,
+                13,
+                13
+            ]
+        },
+        "secondi": {
+            "nome": [
+                "Filetto",
+                "Salmone",
+                "Sgombro"
+            ],
+            "prezzo": [
+                30,
+                26,
+                24
+            ]
+        },
+        "dolci": {
+            "nome": [
+                "Crostata",
+                "Tiramisù",
+                "Sacher"
+            ],
+            "prezzo": [
+                5,
+                6,
+                7
+            ]
+        }
+    }
+]
