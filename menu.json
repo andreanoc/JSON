@@ -12,7 +12,9 @@
                 15,
                 8
             ]
-        },
+        }
+    },
+    {
         "piatti": {
             "tipo": "Piatti del giorno",
             "nome": [
@@ -25,7 +27,9 @@
                 13,
                 13
             ]
-        },
+        }
+    },
+    {
         "dolci": {
             "tipo": "Dolci",
             "nome": [
