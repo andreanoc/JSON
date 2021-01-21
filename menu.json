@@ -1,6 +1,7 @@
 [
     {
         "antipasti": {
+            "tipo": "Antipasti",
             "nome": [
                 "Affettati",
                 "Tartare",
@@ -12,7 +13,8 @@
                 8
             ]
         },
-        "primi": {
+        "piatti": {
+            "tipo": "Piatti del giorno",
             "nome": [
                 "Gnocchi al sugo",
                 "Carbonara",
@@ -24,19 +26,8 @@
                 13
             ]
         },
-        "secondi": {
-            "nome": [
-                "Filetto",
-                "Salmone",
-                "Sgombro"
-            ],
-            "prezzo": [
-                30,
-                26,
-                24
-            ]
-        },
         "dolci": {
+            "tipo": "Dolci",
             "nome": [
                 "Crostata",
                 "Tiramisù",
